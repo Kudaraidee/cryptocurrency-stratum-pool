@@ -1,5 +1,5 @@
 {
-    "name": "cryptocurrency-stratum-pool",
+    "name": "stratum-pool",
     "version": "0.9.0",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
